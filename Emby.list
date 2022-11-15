@@ -139,3 +139,6 @@ DOMAIN,emby.aiyowei.ml
 # > 流媒体Froghub服务器
 DOMAIN,178.173.230.58
 DOMAIN,emby.hm773.xyz
+
+# > 流媒体CC服务器
+DOMAIN,cc.ccemby.tk
