@@ -19,7 +19,8 @@ DOMAIN, pub2.emby.wtf
 DOMAIN, pub3.emby.wtf
 
 # > 流媒体misakaf服务器
-DOMAIN, emby.misakaf.xyz
+DOMAIN, emby.misakaf.org
+DOMAIN, porn.misakaf.org
 
 # > 流媒体polo服务器
 DOMAIN, cu.poloemby.xyz
