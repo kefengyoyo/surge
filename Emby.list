@@ -1,13 +1,5 @@
-# > 流媒体emby-nexitally服务器
-DOMAIN,emby.nexitally.com
-
 # > 流媒体Misty服务器
-DOMAIN, aaa.ax
-DOMAIN, us.aaa.ax
-DOMAIN, jp.aaa.ax
-
-# > 流媒体nakonako服务器
-DOMAIN, nakonako.net
+DOMAIN, misty.ltd
 
 # > 流媒体黑山服务器
 DOMAIN, hs.gcx920110.com
@@ -20,14 +12,12 @@ DOMAIN, pub3.emby.wtf
 
 # > 流媒体misakaf服务器
 DOMAIN, emby.misakaf.org
-DOMAIN, porn.misakaf.org
+DOMAIN, cdn.misakaf.org
 
 # > 流媒体polo服务器
-DOMAIN, cu.poloemby.xyz
-DOMAIN, zzl.poloemby.xyz
-DOMAIN, zf.hk01.xf.gay
-DOMAIN, zzljp.poloemby.xyz
-DOMAIN, zf.jp01.xf.gay
+DOMAIN, sf.poloemby.xyz
+DOMAIN, scf.poloemby.xyz
+DOMAIN, auto.dnslink.ml
 
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
