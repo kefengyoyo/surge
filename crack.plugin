@@ -1,0 +1,13 @@
+#!name = cookies获取
+#!desc = cookies获取
+#!openUrl = 
+#!author = Kefeng
+#!date = 2023-09-12 20:30:28
+[Script]
+
+http-response ^https:\/\/(m5(|-zb)|dache)\.amap\.com\/(ws\/yuece\/(act|openapi\/activity\/current)\/query|common\/(alipaymini|wxmini)\?_ENCRYPT=) script-path=https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js, requires-body=true, timeout=60, tag=ampDache
+
+http-response https:\/\/auth.(aliyundrive|alipan).com\/v2\/account\/token script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js, requires-body=true, timeout=10, tag=阿里云盘签到cookie
+
+[Mitm]
+hostname = *.amap.com,auth.alipan.com
