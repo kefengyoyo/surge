@@ -47,10 +47,9 @@ DOMAIN,c.emby.pro
 DOMAIN,zwei.bgka.me
 DOMAIN,s2.bgka.me
 #>流媒体HXD服务器
-DOMAIN,kr.bili.rip
+DOMAIN,cdn.bili.rip
 DOMAIN,bili.bili.rip
 DOMAIN,cf.bili.rip
-DOMAIN,4837.bili.rip
 #>流媒体特卡服务器
 DOMAIN,emby.carlos.trade
 DOMAIN,cf.carlos.trade
