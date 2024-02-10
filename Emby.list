@@ -106,3 +106,5 @@ DOMAIN-SUFFIX,film.reddust.link
 # 剧狗
 DOMAIN-SUFFIX,ju.dog
 IP-CIDR,202.61.255.248/32,no-resolve
+# singularity
+DOMAIN-SUFFIX,singularity.bagpipe.moe
