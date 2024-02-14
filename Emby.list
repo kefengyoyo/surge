@@ -150,3 +150,6 @@ IP-CIDR,202.61.255.248/32,no-resolve
 
 # singularity
 DOMAIN-SUFFIX,singularity.bagpipe.moe
+
+# 江湖
+DOMAIN-SUFFIX,film.reddust.link
