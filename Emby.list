@@ -77,6 +77,9 @@ DOMAIN-SUFFIX,fk.imetyou.top
 DOMAIN-SUFFIX,kr.imetyou.top
 DOMAIN-SUFFIX,sg.imetyou.top
 DOMAIN-SUFFIX,chun.imetyou.top
+DOMAIN-SUFFIX,music.imetyou.top
+DOMAIN-SUFFIX,cfmusic.imetyou.top
+DOMAIN-SUFFIX,chunmusic.imetyou.top
 #>流媒体二次元服务器
 DOMAIN-SUFFIX,media.nijigem.by
 #>流媒体TreeDiagram服务器
