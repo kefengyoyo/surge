@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,kr.poloemby.xyz
 
 #>流媒体peach服务器
 DOMAIN-SUFFIX,peachmv.me
+IP-CIDR,193.123.232.141/32
 
 #>流媒体magic服务器
 DOMAIN-SUFFIX,emby.freetz.top
