@@ -7,9 +7,7 @@ DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,push.pilipiliultra.com
 
 #>流媒体终点站服务器
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,emby.wtf
 
 #>流媒体misakaf服务器
 DOMAIN-SUFFIX,emby.misakaf.org
@@ -32,33 +30,23 @@ DOMAIN-SUFFIX,kr.freetz.top
 
 #>流媒体pornemby服务器
 DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,s.ii00.cc
-DOMAIN-SUFFIX,us.ii00.cc
-DOMAIN-SUFFIX,jp.ii00.cc
+DOMAIN-SUFFIX,ii00.cc
 
 #>流媒体Viper服务器
 DOMAIN-SUFFIX,emby.agon.cf
 
 #>流媒体卷毛鼠服务器
 DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,cf.jmsooo.com
-DOMAIN-SUFFIX,hk.jmsooo.com
-DOMAIN-SUFFIX,sg.jmsooo.com
 
 #>流媒体卡戎服务器
 DOMAIN-SUFFIX,play.charontv.com
 
 #>流媒体CC服务器
 DOMAIN-SUFFIX,cc.coemn.com
-DOMAIN-SUFFIX,dx1.carryz.net
-DOMAIN-SUFFIX,dx2.carryz.net
+DOMAIN-SUFFIX,carryz.net
 
 #>流媒体MJJ服务器
-DOMAIN-SUFFIX,direct.mjjemby.org
-DOMAIN-SUFFIX,cf.mjjemby.org
-DOMAIN-SUFFIX,sg01.mjjemby.org
-DOMAIN-SUFFIX,jp01.mjjemby.org
-DOMAIN-SUFFIX,jp02.mjjemby.org
+DOMAIN-SUFFIX,mjjemby.org
 
 #>流媒体不给看服务器
 DOMAIN-SUFFIX,c.emby.pro
@@ -71,13 +59,11 @@ DOMAIN-SUFFIX,bili.bili.rip
 DOMAIN-SUFFIX,cf.bili.rip
 
 #>流媒体特卡服务器
-DOMAIN-SUFFIX,emby.carlos.trade
-DOMAIN-SUFFIX,cf.carlos.trade
-DOMAIN-SUFFIX,emby.carlos.trade
+DOMAIN-SUFFIX,carlos.trade
 
 #>流媒体NME服务器
 DOMAIN-SUFFIX,film.ohhhh.org 
-DOMAIN-SUFFIX,emby.9191001.xyz
+DOMAIN-SUFFIX,9191001.xyz
 
 #>流媒体CbCb服务器
 DOMAIN-SUFFIX,emby.jzq.lol
@@ -98,18 +84,11 @@ DOMAIN-SUFFIX,ccde.loseremby.org
 DOMAIN-SUFFIX,embyplus.org
 
 #>流媒体Paul服务器
-DOMAIN-SUFFIX,cf.imetyou.top
-DOMAIN-SUFFIX,emby.imetyou.top
-DOMAIN-SUFFIX,fk.imetyou.top
-DOMAIN-SUFFIX,kr.imetyou.top
-DOMAIN-SUFFIX,sg.imetyou.top
-DOMAIN-SUFFIX,chun.imetyou.top
-DOMAIN-SUFFIX,music.imetyou.top
-DOMAIN-SUFFIX,cfmusic.imetyou.top
-DOMAIN-SUFFIX,chunmusic.imetyou.top
+DOMAIN-SUFFIX,imetyou.top
+
 
 #>流媒体二次元服务器
-DOMAIN-SUFFIX,media.nijigem.by
+DOMAIN-SUFFIX,nijigem.by
 
 #>流媒体TreeDiagram服务器
 DOMAIN-SUFFIX,789.123456.al
