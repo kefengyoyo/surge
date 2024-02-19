@@ -145,7 +145,7 @@ DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,stream3.misakaf.org
 
 #>流媒体江湖服务器
-DOMAIN-SUFFIX,film.reddust.link
+DOMAIN-SUFFIX,reddust.link
 
 # 剧狗
 DOMAIN-SUFFIX,ju.dog
@@ -153,6 +153,3 @@ IP-CIDR,202.61.255.248/32,no-resolve
 
 # singularity
 DOMAIN-SUFFIX,singularity.bagpipe.moe
-
-# 江湖
-DOMAIN-SUFFIX,film.reddust.link
