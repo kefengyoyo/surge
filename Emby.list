@@ -2,31 +2,24 @@
 DOMAIN-SUFFIX,misty.ltd
 
 #>流媒体Pilipili服务器
-DOMAIN-SUFFIX,emby.pilipiliultra.top
-DOMAIN-SUFFIX,emby.pilipiliultra.com
-DOMAIN-SUFFIX,push.pilipiliultra.com
+DOMAIN-SUFFIX,pilipiliultra.top
 
 #>流媒体终点站服务器
 DOMAIN-SUFFIX,emby.wtf
 
 #>流媒体misakaf服务器
-DOMAIN-SUFFIX,emby.misakaf.org
-DOMAIN-SUFFIX,cdn.misakaf.org
+DOMAIN-SUFFIX,misakaf.org
 
 #>流媒体polo服务器
-DOMAIN-SUFFIX,sf.poloemby.xyz
-DOMAIN-SUFFIX,scf.poloemby.xyz
+DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,auto.polodns.xyz
-DOMAIN-SUFFIX,kr.poloemby.xyz
 
 #>流媒体peach服务器
 DOMAIN-SUFFIX,peachmv.me
 IP-CIDR,193.123.232.141/32
 
 #>流媒体magic服务器
-DOMAIN-SUFFIX,emby.freetz.top
-DOMAIN-SUFFIX,cf.freetz.top
-DOMAIN-SUFFIX,kr.freetz.top
+DOMAIN-SUFFIX,freetz.top
 
 #>流媒体pornemby服务器
 DOMAIN-SUFFIX,pornemby.club
@@ -50,13 +43,10 @@ DOMAIN-SUFFIX,mjjemby.org
 
 #>流媒体不给看服务器
 DOMAIN-SUFFIX,c.emby.pro
-DOMAIN-SUFFIX,zwei.bgka.me
-DOMAIN-SUFFIX,s2.bgka.me
+DOMAIN-SUFFIX,bgka.me
 
 #>流媒体HXD服务器
-DOMAIN-SUFFIX,cdn.bili.rip
-DOMAIN-SUFFIX,bili.bili.rip
-DOMAIN-SUFFIX,cf.bili.rip
+DOMAIN-SUFFIX,bili.rip
 
 #>流媒体特卡服务器
 DOMAIN-SUFFIX,carlos.trade
@@ -78,7 +68,7 @@ DOMAIN-SUFFIX,media.bddup.com
 
 #>流媒体垃圾影音服务器
 DOMAIN-SUFFIX,cf.xmsl.org
-DOMAIN-SUFFIX,ccde.loseremby.org
+DOMAIN-SUFFIX,loseremby.org
 
 #>流媒体纸片人服务器
 DOMAIN-SUFFIX,embyplus.org
@@ -119,9 +109,8 @@ DOMAIN-SUFFIX,ntrrr.am.sb
 DOMAIN-SUFFIX,stream.ntrrr.top
 
 #>流媒体ACA服务器
-DOMAIN-SUFFIX,porn.aca.best
-DOMAIN-SUFFIX,emby.aca.best
-DOMAIN-SUFFIX,stream3.misakaf.org
+DOMAIN-SUFFIX,aca.best
+DOMAIN-SUFFIX,misakaf.org
 
 #>流媒体江湖服务器
 DOMAIN-SUFFIX,reddust.link
