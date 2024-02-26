@@ -121,3 +121,6 @@ IP-CIDR,202.61.255.248/32,no-resolve
 
 # singularity
 DOMAIN-SUFFIX,singularity.bagpipe.moe
+
+# lyrebird
+DOMAIN-SUFFIX,lyrebirdemby.com
